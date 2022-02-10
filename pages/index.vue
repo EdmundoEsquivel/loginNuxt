@@ -13,7 +13,7 @@
           href="https://nuxtjs.org/"
           target="_blank"
           class="button--green"
-        >Documentation</a>
+        >Esta es una parte de la gestión </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
